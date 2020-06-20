@@ -1,6 +1,6 @@
 # 맛집 공유 사이트
 
-![todolist](https://user-images.githubusercontent.com/51525202/84785164-1e311380-b026-11ea-9d23-45981680a123.png)
+![res_share](https://user-images.githubusercontent.com/51525202/85197729-e1169b00-b31d-11ea-9bd3-948794071750.png)
 
 ## 학습 내용
 
