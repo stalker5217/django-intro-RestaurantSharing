@@ -32,8 +32,7 @@ TEMPLATES = [
 ]
 ```
 
-python에서는 여러 템플릿 엔진을 사용할 수 있다. 
-위는 django의 기본 설정이며, JSP의 scriptlet처럼 서버에서 HTML에 컨텐츠를 동적으로 생성할 수 있다.
+위는 django의 기본 설정이며 python에서는 여러 템플릿 엔진을 사용할 수 있다. JSP의 scriptlet처럼 서버에서 HTML 컨텐츠를 동적으로 생성할 수 있다.
 
 ``` html
 <ul class="restaurantListDiv nav nav-pills nav-stacked">
@@ -60,7 +59,7 @@ python에서는 여러 템플릿 엔진을 사용할 수 있다.
 
 ## E-mail 발신
 
-파이썬에서는 STMP 관련된 stmplib을 제공하는데, django에서는 이를 이용하여 가벼운 wrapper를 제공하고 있다.
+파이썬에서는 STMP 관련된 stmplib을 제공하는데, django에서는 이를 이용하여 보다 가벼운 wrapper를 제공하고 있다.
 
 ``` python
 from django.core.mail import send_mail
