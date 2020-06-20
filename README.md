@@ -91,3 +91,6 @@ EMAIL_HOST_PASSWORD = ''
 
 ## pythonanywhere
 
+pythonanywhere은 python으로 구축된 웹 서버를 무료로 호스팅할 수 있게 paas service를 제공해준다. 
+제공하는 shell에서 git remote 연동 및 환경 구성 후 배포 가능하다.
+
