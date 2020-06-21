@@ -2,6 +2,8 @@
 
 ![res_share](https://user-images.githubusercontent.com/51525202/85197729-e1169b00-b31d-11ea-9bd3-948794071750.png)
 
+<br/>
+
 ## 학습 내용
 
 - django 프로젝트 세팅 및 CRUD의 구현
@@ -9,6 +11,7 @@
 - stmp library를 사용한 메일 발신
 - pythonanywhere를 통한 depoly
 
+<br/>
 
 ## Templates  
 
@@ -88,8 +91,13 @@ EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 ```
 
+![image](https://user-images.githubusercontent.com/51525202/85217922-41feab80-b3d0-11ea-9095-71b639b3eb5d.png)
+
+<br/>
+
 ## pythonanywhere
 
 pythonanywhere은 python으로 구축된 웹 서버를 무료로 호스팅할 수 있게 paas service를 제공해준다. 
 제공하는 shell에서 git remote 연동 및 환경 구성 후 배포 가능하다.
 
+[pythonanywhere](https://www.pythonanywhere.com/)
